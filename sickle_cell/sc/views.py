@@ -11,4 +11,5 @@ def question_prediction(request, template_name="diagnosis-questions/questions.ht
     return render(request, template_name)
 
 
-
+def acute_result(request, template_name="result/result_acute.html"):
+    return render(request, template_name)

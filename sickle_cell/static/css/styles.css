@@ -1,42 +1,9 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Akintola-Stephen 
-Isaac-Adepitan
-/
-Bianca-Project
-1
-0
-0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Bianca-Project/style.css
-@Isaac-Adepitan
-Isaac-Adepitan Finished up all pages
-Latest commit 56fecd1 19 hours ago
- History
- 1 contributor
-151 lines (116 sloc)  2.43 KB
-  
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@200;300&display=swap');
-
-
-
-
+body{
+  font-family:ubuntu;
+}
 
 /** Flex Style **/
-
 .row {
     display: flex;
     max-height: 100vh;
@@ -73,7 +40,7 @@ Latest commit 56fecd1 19 hours ago
 /** Typography Styles **/ 
 
 h1 {
-    font-family: 'Bebas Neue', cursive;
+    font-family: ubuntu;
     font-weight: 700;
     font-size: 3em;;
 }
@@ -92,7 +59,7 @@ p {
 }
 
 .pbig {
-    font-family: 'Poppins', sans-serif;
+    font-family: ubuntu;
     font-weight: 500;
     font-size: 1.2em;
 }
@@ -108,7 +75,7 @@ p {
     background-color: #ff0000;
     color: #ffffff;
     font-size: 1em;
-    font-family: 'Poppins', sans-serif;
+    font-family: ubuntu;
     padding: 10px 40px;
     border-color: none;
 }
@@ -117,7 +84,7 @@ p {
     background-color: #ff0000;
     color: #ffffff;
     font-size: 1em;
-    font-family: 'Poppins', sans-serif;
+    font-family: ubuntu;
     padding: 10px 40px;
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.15));
     border-color: none;
@@ -127,7 +94,7 @@ p {
     background-color: #ffffff;
     color: #ff0000;
     font-size: 1em;
-    font-family: 'Poppins', sans-serif;
+    font-family: ubuntu;
     padding: 10px 40px;
     border-color: #ff0000;
 }
@@ -136,7 +103,7 @@ p {
     background-color: #ff0000;
     color: #ffffff;
     font-size: 1em;
-    font-family: 'Poppins', sans-serif;
+    font-family: ubuntu;
     padding: 10px 40px;
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.15));
     border-color: none;
