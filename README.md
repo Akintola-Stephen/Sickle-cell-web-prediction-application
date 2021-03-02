@@ -20,8 +20,9 @@ list of files which includes (Important ones to be mentioned ony)
 
 
 # static 
+
 This a folder that contains all my css, js and images (could be found in the folder 'assets')
-=======
+
 Made use of bayers algorithm to making predictions, but updates could be done periodically. 
-# How application was built
->>>>>>> 90d0ea3070691584f41fa243860809c35b799c42
+
+
