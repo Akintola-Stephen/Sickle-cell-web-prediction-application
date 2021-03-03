@@ -9,6 +9,7 @@ It has a container directory called 'sickle_cell' which encapsulates the followi
 # ml-model
 contains both the code and dataset (In the form of a xlsx format) used to train my ML ml-model, 
 Also contains a ipynb (Ipyton notebook) file.
+I made use of a Machine learning classification learning algorithm to make predictions 
 
 # sc 
 This was an app i created using the django command 'py django.admin startapp' command, writing the command it created some 
